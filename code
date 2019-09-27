@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="Google Web Designer 6.0.1.0801">
+  <meta name="template" content="Banner 3.0.0">
+  <meta name="environment" content="gwd-dv360">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="gwdpage_style.css" rel="stylesheet" data-version="12" data-exports-type="gwd-page">
+  <link href="gwdpagedeck_style.css" rel="stylesheet" data-version="12" data-exports-type="gwd-pagedeck">
+  <link href="gwdgooglead_style.css" rel="stylesheet" data-version="5" data-exports-type="gwd-google-ad">
+  <link href="gwdimage_style.css" rel="stylesheet" data-version="13" data-exports-type="gwd-image">
+  <link href="gwdtaparea_style.css" rel="stylesheet" data-version="6" data-exports-type="gwd-taparea">
+  <link href="gwdgesture_style.css" rel="stylesheet" data-version="6" data-exports-type="gwd-gesture">
+  <link href="gwdgallerynavigation_style.css" rel="stylesheet" data-version="5" data-exports-type="gwd-gallerynavigation">
+  <link href="gwdcarouselgallery_style.css" rel="stylesheet" data-version="22" data-exports-type="gwd-carouselgallery">
+  <link href="gwdvideo_style.css" rel="stylesheet" data-version="16" data-exports-type="gwd-video">
+  <style type="text/css" id="gwd-lightbox-style">
+    .gwd-lightbox {
+      overflow: hidden;
+    }
+  </style>
+  <style type="text/css" id="gwd-text-style">
+    p {
+      margin: 0px;
+    }
+    h1 {
+      margin: 0px;
+    }
+    h2 {
+      margin: 0px;
+    }
+    h3 {
+      margin: 0px;
+    }
+  </style>
+  <style type="text/css">
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0px;
+    }
+    .gwd-page-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+    .gwd-page-content {
+      background-color: transparent;
+      transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      transform-style: preserve-3d;
+      position: absolute;
+    }
+    .gwd-page-wrapper {
+      background-color: rgb(255, 255, 255);
+      position: absolute;
+      transform: translateZ(0px);
+    }
+    .gwd-page-size {
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-image-40im {
+      position: absolute;
+      width: 550px;
+      height: 700px;
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-taparea-1i8c {
+      position: absolute;
+      width: 134px;
+      left: 415px;
+      top: 72px;
+      height: 34px;
+    }
+    .gwd-page-8msq {
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-div-b8ce {
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-image-14mn {
+      position: absolute;
+      width: 550px;
+      height: 700px;
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-image-aybd {
+      position: absolute;
+      top: 166px;
+      left: 102px;
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-image-1jr6 {
+      position: absolute;
+      width: 512px;
+      height: 512px;
+      left: 118px;
+      top: 199px;
+    }
+    .gwd-img-1cgb {
+      position: absolute;
+      width: 31px;
+      height: 31px;
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-taparea-ftg3 {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 31px;
+      height: 32px;
+    }
+    .gwd-taparea-gckb {
+      position: absolute;
+      width: 138px;
+      height: 31px;
+      left: 277px;
+      top: 74px;
+    }
+    .gwd-div-17mz {
+      height: 700px;
+    }
+    .gwd-page-1ac5 {
+      height: 700px;
+    }
+    .gwd-page-1iq0 {
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-div-1jvd {
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-image-9gpa {
+      position: absolute;
+      width: 550px;
+      height: 700px;
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-taparea-z9zj {
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-image-1758 {
+      left: 0px;
+      top: 1px;
+    }
+    .gwd-taparea-76ly {
+      position: absolute;
+      width: 32px;
+      height: 32px;
+      left: 0px;
+      top: 1px;
+    }
+    .gwd-page-16w8 {
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-div-1adw {
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-image-1dl7 {
+      position: absolute;
+      width: 550px;
+      height: 700px;
+      left: 0px;
+      top: 1px;
+    }
+    .gwd-taparea-a7xb {
+      position: absolute;
+      width: 31px;
+      height: 31px;
+      left: 0px;
+      top: 1px;
+    }
+    .gwd-taparea-t4nn {
+      position: absolute;
+      left: 135px;
+      top: 71px;
+      width: 140px;
+      height: 33px;
+    }
+    .gwd-page-1kbv {
+      height: 700px;
+      width: 550px;
+    }
+    .gwd-div-1veg {
+      height: 700px;
+      width: 550px;
+    }
+    .gwd-taparea-krdl {
+      position: absolute;
+      left: 1px;
+      top: 72px;
+      width: 134px;
+      height: 34px;
+    }
+    .gwd-image-110m {
+      left: 0px;
+      top: 1px;
+    }
+    .gwd-img-1w3r {
+      position: absolute;
+      width: 24px;
+      height: 20px;
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-img-1mom {
+      position: absolute;
+      width: 24px;
+      height: 20px;
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-img-1sfp {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 24px;
+      height: 20px;
+    }
+    .gwd-image-hn97 {
+      position: absolute;
+      width: 550px;
+      height: 700px;
+      top: 0px;
+      left: 0px;
+    }
+    .gwd-img-1lct {
+      position: absolute;
+      width: 24px;
+      height: 20px;
+      left: 0px;
+      top: 0px;
+    }
+    .gwd-taparea-iyrm {
+      position: absolute;
+      width: 23px;
+      height: 20px;
+      left: 1px;
+      top: -1px;
+    }
+    .gwd-image-d5wg {
+      position: absolute;
+      top: 644px;
+      left: 258px;
+      width: 550px;
+      height: 700px;
+    }
+    .gwd-image-2qnl {
+      position: absolute;
+      top: 268px;
+      left: 129px;
+      width: 1280px;
+      height: 720px;
+    }
+    .gwd-image-1cec {
+      position: absolute;
+      width: 450px;
+      height: 430px;
+      left: 150px;
+      top: 279px;
+    }
+    .gwd-carouselgallery-f9no {
+      position: absolute;
+      top: 124px;
+      left: 1px;
+      width: 272px;
+      height: 246px;
+    }
+    .gwd-carouselgallery-1d6z {
+      left: 275px;
+      top: 125px;
+      width: 274px;
+    }
+    .gwd-carouselgallery-dgkj {
+      top: 426px;
+    }
+    .gwd-carouselgallery-1v5w {
+      left: 274px;
+      top: 426px;
+      width: 275px;
+    }
+    .gwd-video-13uk {
+      position: absolute;
+      width: 279px;
+      opacity: 1;
+      overflow: hidden;
+      height: 165px;
+      top: 510px;
+      left: 133px;
+    }
+    .gwd-carouselgallery-knb4 {
+      left: 2px;
+      top: 124px;
+    }
+  </style>
+  <script data-source="googbase_min.js" data-version="4" data-exports-type="googbase" src="googbase_min.js"></script>
+  <script data-source="gwd_webcomponents_min.js" data-version="6" data-exports-type="gwd_webcomponents" src="gwd_webcomponents_min.js"></script>
+  <script data-source="gwdpage_min.js" data-version="12" data-exports-type="gwd-page" src="gwdpage_min.js"></script>
+  <script data-source="gwdpagedeck_min.js" data-version="12" data-exports-type="gwd-pagedeck" src="gwdpagedeck_min.js"></script>
+  <script data-source="https://s0.2mdn.net/ads/studio/Enabler.js" data-exports-type="gwd-google-ad" src="https://s0.2mdn.net/ads/studio/Enabler.js"></script>
+  <script data-source="gwdgooglead_min.js" data-version="5" data-exports-type="gwd-google-ad" src="gwdgooglead_min.js"></script>
+  <script data-source="gwdimage_min.js" data-version="13" data-exports-type="gwd-image" src="gwdimage_min.js"></script>
+  <script data-source="gwdtaparea_min.js" data-version="6" data-exports-type="gwd-taparea" src="gwdtaparea_min.js"></script>
+  <script type="text/javascript" gwd-events="support" src="gwd-events-support.1.0.js"></script>
+  <script type="text/javascript" gwd-events="handlers">
+    gwd.auto_Gwd_taparea_1Touchstart = function(event) {
+      // GWD Predefined Function
+      gwd.actions.gwdPagedeck.goToPage('pagedeck', 'page1_1', 'fade', 500, 'linear', 'top');
+    };
+    gwd.auto_Gwd_taparea_2Touchstart = function(event) {
+      // GWD Predefined Function
+      gwd.actions.gwdPagedeck.goToPage('pagedeck', 'page1', 'fade', 500, 'linear', 'top');
+    };
+    gwd.auto_Gwd_taparea_3Action = function(event) {
+      // GWD Predefined Function
+      gwd.actions.gwdPagedeck.goToPage('pagedeck', 'page1_2', 'fade', 500, 'linear', 'top');
+    };
+    gwd.auto_Gwd_taparea_4Action = function(event) {
+      // GWD Predefined Function
+      gwd.actions.gwdPagedeck.goToPage('pagedeck', 'page1', 'fade', 500, 'linear', 'top');
+    };
+    gwd.auto_Gwd_taparea_5Action = function(event) {
+      // GWD Predefined Function
+      gwd.actions.gwdPagedeck.goToPage('pagedeck', 'page1', 'fade', 500, 'linear', 'top');
+    };
+    gwd.auto_Gwd_taparea_6Action = function(event) {
+      // GWD Predefined Function
+      gwd.actions.gwdPagedeck.goToPage('pagedeck', 'page1_3', 'fade', 500, 'linear', 'top');
+    };
+    gwd.auto_Gwd_taparea_7Action = function(event) {
+      // GWD Predefined Function
+      gwd.actions.gwdPagedeck.goToPage('pagedeck', 'page1_4', 'fade', 500, 'linear', 'top');
+    };
+    gwd.auto_Gwd_taparea_8Action = function(event) {
+      // GWD Predefined Function
+      gwd.actions.gwdPagedeck.goToPage('pagedeck', 'page1', 'fade', 500, 'linear', 'top');
+    };
+  </script>
+  <script type="text/javascript" gwd-events="registration">
+    // Código de soporte para la administración de eventos en Google Web Designer
+    // Este bloqueo de la secuencia de comandos se genera automáticamente. No lo edite.
+    gwd.actions.events.registerEventHandlers = function(event) {
+      gwd.actions.events.addHandler('gwd-taparea_1', 'action', gwd.auto_Gwd_taparea_1Touchstart, false);
+      gwd.actions.events.addHandler('gwd-taparea_2', 'action', gwd.auto_Gwd_taparea_2Touchstart, false);
+      gwd.actions.events.addHandler('gwd-taparea_3', 'action', gwd.auto_Gwd_taparea_3Action, false);
+      gwd.actions.events.addHandler('gwd-taparea_4', 'action', gwd.auto_Gwd_taparea_4Action, false);
+      gwd.actions.events.addHandler('gwd-taparea_5', 'action', gwd.auto_Gwd_taparea_5Action, false);
+      gwd.actions.events.addHandler('gwd-taparea_6', 'action', gwd.auto_Gwd_taparea_6Action, false);
+      gwd.actions.events.addHandler('gwd-taparea_7', 'action', gwd.auto_Gwd_taparea_7Action, false);
+      gwd.actions.events.addHandler('gwd-taparea_8', 'action', gwd.auto_Gwd_taparea_8Action, false);
+    };
+    gwd.actions.events.deregisterEventHandlers = function(event) {
+      gwd.actions.events.removeHandler('gwd-taparea_1', 'action', gwd.auto_Gwd_taparea_1Touchstart, false);
+      gwd.actions.events.removeHandler('gwd-taparea_2', 'action', gwd.auto_Gwd_taparea_2Touchstart, false);
+      gwd.actions.events.removeHandler('gwd-taparea_3', 'action', gwd.auto_Gwd_taparea_3Action, false);
+      gwd.actions.events.removeHandler('gwd-taparea_4', 'action', gwd.auto_Gwd_taparea_4Action, false);
+      gwd.actions.events.removeHandler('gwd-taparea_5', 'action', gwd.auto_Gwd_taparea_5Action, false);
+      gwd.actions.events.removeHandler('gwd-taparea_6', 'action', gwd.auto_Gwd_taparea_6Action, false);
+      gwd.actions.events.removeHandler('gwd-taparea_7', 'action', gwd.auto_Gwd_taparea_7Action, false);
+      gwd.actions.events.removeHandler('gwd-taparea_8', 'action', gwd.auto_Gwd_taparea_8Action, false);
+    };
+    document.addEventListener("DOMContentLoaded", gwd.actions.events.registerEventHandlers);
+    document.addEventListener("unload", gwd.actions.events.deregisterEventHandlers);
+  </script>
+  <script data-source="gwdgesture_min.js" data-version="6" data-exports-type="gwd-gesture" src="gwdgesture_min.js"></script>
+  <script data-source="gwdgallerynavigation_min.js" data-version="5" data-exports-type="gwd-gallerynavigation" src="gwdgallerynavigation_min.js"></script>
+  <script data-source="gwdcarouselgallery_min.js" data-version="22" data-exports-type="gwd-carouselgallery" src="gwdcarouselgallery_min.js"></script>
+  <script data-source="gwdvideo_min.js" data-version="16" data-exports-type="gwd-video" src="gwdvideo_min.js"></script>
+</head>
+
+<body>
+  <gwd-google-ad id="gwd-ad" polite-load="">
+    <gwd-metric-configuration>
+      <gwd-metric-event source="gwd-taparea_1" event="tapareaexit" metric="" exit="Exit"></gwd-metric-event>
+      <gwd-metric-event source="gwd-taparea_2" event="tapareaexit" metric="" exit="Exit"></gwd-metric-event>
+      <gwd-metric-event source="gwd-taparea_3" event="tapareaexit" metric="" exit="Exit"></gwd-metric-event>
+      <gwd-metric-event source="gwd-taparea_4" event="tapareaexit" metric="" exit="Exit"></gwd-metric-event>
+      <gwd-metric-event source="gwd-taparea_5" event="tapareaexit" metric="" exit="Exit"></gwd-metric-event>
+      <gwd-metric-event source="gwd-taparea_6" event="tapareaexit" metric="" exit="Exit"></gwd-metric-event>
+      <gwd-metric-event source="gwd-taparea_7" event="tapareaexit" metric="" exit="Exit"></gwd-metric-event>
+      <gwd-metric-event source="gwd-taparea_8" event="tapareaexit" metric="" exit="Exit"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_5" event="firstinteraction" metric="gwd-carouselgallery_5: Gallery Swiped"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_5" event="allframesviewed" metric="gwd-carouselgallery_5: All Frames Viewed"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_5" event="frameexit" metric="" exit="Gallery Frame Exited"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_6" event="firstinteraction" metric="gwd-carouselgallery_6: Gallery Swiped"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_6" event="allframesviewed" metric="gwd-carouselgallery_6: All Frames Viewed"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_6" event="frameexit" metric="" exit="Gallery Frame Exited"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_7" event="firstinteraction" metric="gwd-carouselgallery_7: Gallery Swiped"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_7" event="allframesviewed" metric="gwd-carouselgallery_7: All Frames Viewed"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_7" event="frameexit" metric="" exit="Gallery Frame Exited"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_8" event="firstinteraction" metric="gwd-carouselgallery_8: Gallery Swiped"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_8" event="allframesviewed" metric="gwd-carouselgallery_8: All Frames Viewed"></gwd-metric-event>
+      <gwd-metric-event source="gwd-carouselgallery_8" event="frameexit" metric="" exit="Gallery Frame Exited"></gwd-metric-event>
+    </gwd-metric-configuration>
+    <gwd-pagedeck class="gwd-page-container" id="pagedeck">
+      <gwd-page id="page1" class="gwd-page-wrapper gwd-page-size gwd-lightbox gwd-page-1ac5" data-gwd-width="550px" data-gwd-height="700px">
+        <div class="gwd-page-content gwd-page-size gwd-div-17mz">
+          <gwd-image id="gwd-image_1" source="assets/diseño projecto_5.jpg" scaling="stretch" class="gwd-image-40im"></gwd-image>
+          <gwd-taparea id="gwd-taparea_1" class="gwd-taparea-1i8c"></gwd-taparea>
+          <gwd-taparea id="gwd-taparea_3" class="gwd-taparea-gckb"></gwd-taparea>
+          <gwd-taparea id="gwd-taparea_6" class="gwd-taparea-t4nn"></gwd-taparea>
+          <gwd-taparea id="gwd-taparea_7" class="gwd-taparea-krdl"></gwd-taparea>
+          <gwd-video id="Ah_dylantero" muted="" controls="" sources="assets/Ah dylantero.mp4" class="gwd-video-13uk"></gwd-video>
+        </div>
+      </gwd-page>
+      <gwd-page id="page1_3" class="gwd-page-wrapper gwd-lightbox gwd-page-16w8" data-gwd-width="550px" data-gwd-height="700px">
+        <div class="gwd-page-content gwd-div-1adw">
+          <gwd-image id="Galeria_1" source="assets/About_2.jpg" scaling="stretch" class="gwd-image-1dl7"></gwd-image>
+          <gwd-image source="assets/image_1.png" class="gwd-img-1cgb gwd-image-1758 gwd-image-110m" id="image_3"></gwd-image>
+          <gwd-taparea id="gwd-taparea_5" class="gwd-taparea-a7xb"></gwd-taparea>
+        </div>
+      </gwd-page>
+      <gwd-page id="page1_4" class="gwd-page-wrapper gwd-lightbox gwd-page-1kbv" data-gwd-width="550px" data-gwd-height="700px">
+        <div class="gwd-page-content gwd-div-1veg">
+          <gwd-image id="Home" source="assets/Home.jpg" scaling="stretch" class="gwd-image-hn97 gwd-gen-12pagwdanimation"></gwd-image>
+          <gwd-image source="assets/image_6.png" class="gwd-img-1lct" id="image_6"></gwd-image>
+          <gwd-taparea id="gwd-taparea_8" class="gwd-taparea-iyrm"></gwd-taparea>
+        </div>
+      </gwd-page>
+      <gwd-page id="page1_2" class="gwd-page-wrapper gwd-lightbox gwd-page-1iq0" data-gwd-width="550px" data-gwd-height="700px">
+        <div class="gwd-page-content gwd-div-1jvd">
+          <gwd-image id="jugabilidad" source="assets/jugabilidad_1.jpg" scaling="stretch" class="gwd-image-9gpa"></gwd-image>
+          <gwd-image source="assets/image_1.png" class="gwd-img-1cgb gwd-image-1758" id="image_2"></gwd-image>
+          <gwd-taparea id="gwd-taparea_4" class="gwd-taparea-76ly"></gwd-taparea>
+        </div>
+      </gwd-page>
+      <gwd-page id="page1_1" class="gwd-page-wrapper gwd-lightbox gwd-page-8msq" data-gwd-width="550px" data-gwd-height="700px">
+        <div class="gwd-page-content gwd-div-b8ce">
+          <gwd-image id="Galeria" source="assets/Galeria_4.jpg" scaling="stretch" class="gwd-image-14mn gwd-gen-1nfxgwdanimation"></gwd-image>
+          <gwd-image source="assets/image_1.png" class="gwd-img-1cgb" id="image_1"></gwd-image>
+          <gwd-taparea id="gwd-taparea_2" class="gwd-taparea-ftg3 gwd-taparea-z9zj"></gwd-taparea>
+          <gwd-carouselgallery id="gwd-carouselgallery_8" scaling="contain" pause-front-media="" resume-next-media="" class="gwd-carouselgallery-f9no gwd-carouselgallery-knb4" has-navigation="" autoplay="" start-frame="1" transition-duration="10000" images="assets/Logo.png,assets/Banner Zona 1.png,assets/Banner Zona 2.png,assets/Banner Zona 3.png,assets/Background.png,assets/Botones.png"></gwd-carouselgallery>
+          <gwd-carouselgallery id="gwd-carouselgallery_7" scaling="contain" pause-front-media="" resume-next-media="" class="gwd-carouselgallery-f9no gwd-carouselgallery-1v5w" images="assets/Tile Agua.png,assets/Tile Pasto 1.png,assets/Tile Pasto 2.png,assets/Tile Roca 1.png,assets/Tile Roca.png,assets/Tile Tierra (1).png,assets/Tile Tierra.png"
+          has-navigation="" autoplay="" start-frame="1" transition-duration="10000"></gwd-carouselgallery>
+          <gwd-carouselgallery id="gwd-carouselgallery_6" scaling="contain" pause-front-media="" resume-next-media="" class="gwd-carouselgallery-f9no gwd-carouselgallery-dgkj" images="assets/archer front.png,assets/03.png,assets/05.png,assets/mago back.png,assets/Mago front.png,assets/06.png,assets/08.png,assets/Archer Idle Front.png,assets/Mage Idle Front.png,assets/Warrior Idle Front.png"
+          has-navigation="" autoplay="" start-frame="1" transition-duration="10000"></gwd-carouselgallery>
+          <gwd-carouselgallery id="gwd-carouselgallery_5" scaling="contain" pause-front-media="" resume-next-media="" class="gwd-carouselgallery-f9no gwd-carouselgallery-1d6z" images="assets/Base Aliada.png,assets/Base colonizable Enemiga.png,assets/Base colonizable.png,assets/Base Enemiga.png,assets/Roca.png,assets/Tree.png"
+          has-navigation="" autoplay="" start-frame="1" transition-duration="10000"></gwd-carouselgallery>
+        </div>
+      </gwd-page>
+    </gwd-pagedeck>
+  </gwd-google-ad>
+  <script type="text/javascript" id="gwd-init-code">
+    (function() {
+      var gwdAd = document.getElementById('gwd-ad');
+
+      /**
+       * Handles the DOMContentLoaded event. The DOMContentLoaded event is
+       * fired when the document has been completely loaded and parsed.
+       */
+      function handleDomContentLoaded(event) {
+
+      }
+
+      /**
+       * Handles the WebComponentsReady event. This event is fired when all
+       * custom elements have been registered and upgraded.
+       */
+      function handleWebComponentsReady(event) {
+        // Start the Ad lifecycle.
+        setTimeout(function() {
+          gwdAd.initAd();
+        }, 0);
+      }
+
+      /**
+       * Handles the event that is dispatched after the Ad has been
+       * initialized and before the default page of the Ad is shown.
+       */
+      function handleAdInitialized(event) {}
+
+      window.addEventListener('DOMContentLoaded',
+        handleDomContentLoaded, false);
+      window.addEventListener('WebComponentsReady',
+        handleWebComponentsReady, false);
+      window.addEventListener('adinitialized',
+        handleAdInitialized, false);
+    })();
+  </script>
+</body>
+
+</html>
